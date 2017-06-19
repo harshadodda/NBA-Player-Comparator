@@ -16,6 +16,6 @@ Step 3: We will list all of the stats so we can compare the two players, Kevin D
 <img width="1335" alt="screen shot 2017-06-19 at 4 34 01 pm" src="https://user-images.githubusercontent.com/13561051/27310159-24ded586-550d-11e7-9c8a-3036d61f9319.png">
 
 
-Step 4: 
+Step 4: Now the program will compare the two players and list their stats as well as an arrow pointing to who is leading in that particular stat. The results are then shown in a table format.
 
 <img width="1338" alt="screen shot 2017-06-19 at 3 40 13 pm" src="https://user-images.githubusercontent.com/13561051/27310123-e6dd505a-550c-11e7-9697-1815dabbc15c.png">
