@@ -13,7 +13,7 @@ Step 2: We are then prompted to choose the list of stats we want to compare and 
 
 Step 3: We will list all of the stats so we can compare the two players, Kevin Durant and LeBron James, based on all of the stats available to the program.
 
-<img width="995" alt="screen shot 2017-06-19 at 4 24 28 pm" src="https://user-images.githubusercontent.com/13561051/27310133-f49d0622-550c-11e7-8dd8-6614db413844.png">
+<img width="1335" alt="screen shot 2017-06-19 at 4 34 01 pm" src="https://user-images.githubusercontent.com/13561051/27310159-24ded586-550d-11e7-9c8a-3036d61f9319.png">
 
 
 Step 4: 
