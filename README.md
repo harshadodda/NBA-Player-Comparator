@@ -11,6 +11,7 @@ Limitations:
 
 -cannot finish gathering statsics if the user enters which statistics they want incorrectly
 
+
 Below is a sample of the running program:
 
 Step 1 : We are prompted to list the names of two current NBA players by entering the first then the last name for each.
