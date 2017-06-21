@@ -1,5 +1,11 @@
 # NBA-Player-Comparator
-Takes two current NBA players and compares them based on stats the user chooses from a list
+Summary:
+This program takes two current NBA players and compares them based on stats the user chooses from a list. The program uses the requests and beautifulsoup modules from python to parse data from the Basketball Reference website. The data is then sifted and only the select statstics are taken and displayed. The program then shows the user which player is leading each stat.
+
+Limitations: 
+-cannot parse data for players that are retired
+-cannot parse data if user spells the name of the player wrong in any way, the name must be spelled perfectly
+-cannot finish gathering statsics if the user enters which statistics they want incorrectly
 
 Below is a sample of the running program:
 
